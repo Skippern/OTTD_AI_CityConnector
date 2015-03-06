@@ -20,7 +20,7 @@
  class CityConnecter extends AIInfo {
         function GetAuthor()      { return "Aun Johnsen"; }
         function GetName()        { return "CityConnecter"; }
-        function GetVersion()     { return 1; }
+        function GetVersion()     { return 2; }
 		function MinVersionToLoad() { return 1; }
         function GetDescription() { return "Regional Road Construction Council"; }
         function GetAPIVersion()  { return "1.3"; }
