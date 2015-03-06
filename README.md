@@ -5,3 +5,8 @@ This is an experimental AI for [OpenTTD](http://www.openttd.org). The purpose of
 
 Any updates to this AI is posted on the [TT-Forum](http://www.tt-forums.net/viewtopic.php?f=65&t=70063)
 
+Releases
+==========
+
+* [Version 1 on BaNaNaS](http://binaries.openttd.org/bananas/ai/CityConnecter-1.tar.gz)
+
