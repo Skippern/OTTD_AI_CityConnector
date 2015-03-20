@@ -8,5 +8,6 @@ Any updates to this AI is posted on the [TT-Forum](http://www.tt-forums.net/view
 Releases
 ==========
 
+* [Latest on GitHub](https://github.com/Skippern/OTTD_AI_CityConnector/releases/latest)
 * [Version 1 on BaNaNaS](http://binaries.openttd.org/bananas/ai/CityConnecter-1.tar.gz)
 
